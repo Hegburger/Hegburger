@@ -7,7 +7,7 @@
 1. 个人小项目
 2. 未来大项目？
 
-兴趣方向： **大模型** **多模态**
+兴趣方向： **大模型** **多模态** **睡眠**
 ## 🛠️ 技术栈
 ### 编程语言
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hegburger&theme=radical" alt="GitHub Streak" />
 </div>
 
-<!-- 年度贡献图 -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hegburger&theme=redical)
 
 ## 项目尝试
 ### CKS
@@ -34,6 +32,6 @@
 
 在最后的验收中喜提zcj院长的**B-！！！！**，可喜可贺（雾
 ### 小游戏
-给女友做的，内容隐私不宜展示
+疑似有些照片？不好意思传GitHub。。。
 
 
